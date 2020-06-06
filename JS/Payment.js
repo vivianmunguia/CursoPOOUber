@@ -1,3 +1,5 @@
-function Payment() {
-    this.id;
+function Payment {
+    constructor() {
+        this.id;  
+    }
 }
