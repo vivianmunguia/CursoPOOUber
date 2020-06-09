@@ -1,6 +1,6 @@
 class Account {
     
-    constructor (name, document) {
+    constructor (id, name, document, email, password) {
         this.id;
         this.name = name;
         this.document = document;
