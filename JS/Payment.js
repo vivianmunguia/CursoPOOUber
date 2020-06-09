@@ -1,5 +1,5 @@
-function Payment {
-    constructor() {
-        this.id;  
+class Payment{
+    constructor(id){
+        this.id;
     }
 }

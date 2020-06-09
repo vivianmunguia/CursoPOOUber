@@ -1,4 +1,4 @@
-from payment import payment
+from payment import Payment
 
 class Cash(Payment):
     id = int
